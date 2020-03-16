@@ -1,7 +1,8 @@
-Lysozyme                    Chicken       LYSC_CHICK P00698
-Lysozyme                    Human         LYSC_HUMAN P61626
-Hemoglobin-alpha            Human         HBA_HUMAN  P69905
-Hemoglobin-beta             Human         HBB_HUMAN  P68871
-PFKM                        Human	  PFKAM_HUMANP08237
-Pfkm                        Mouse         PFKAM_MOUSEP47857
-RFKM                        ROHITH        RFKM_ROHITHP04567
+
+Lysozyme                    Chicken       LYSC_CHICK P00698   222
+Lysozyme                    Human         LYSC_HUMAN P61626   323
+Hemoglobin-alpha            Human         HBA_HUMAN  P69905   543
+Hemoglobin-beta             Human         HBB_HUMAN  P68871   542
+PFKM                        Human	  PFKAM_HUMANP08237   112
+Pfkm                        Mouse         PFKAM_MOUSEP47857   765
+RFKM                        ROHITH        RFKM_ROHITHP04567   123
